@@ -1,4 +1,4 @@
-#this is a program whose name is magic number finder i will ask you some questions and give you yours dezire answer.
+#this is a program whose name is magic number finder i will ask you some questions and give you yours desire answer.
 list=['start']
 num=(input("if you want to start the game please enter start: \n"))
 for item in list:
